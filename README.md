@@ -1,4 +1,4 @@
 # IBM-DataAnalytics
--- data science project with cognos  
+-- data analytics project with cognos  
 -- Nan Mudhalvan course
 
